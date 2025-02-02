@@ -1,0 +1,7 @@
+make_appointment="css:#btn-make-appointment"
+Title_Appointment="css:.lead"
+Title_Appointment1="div[class='col-sm-12 text-center'] h2"
+Title_Login="css:div[class='col-sm-12 text-center'] h2"
+username_input="id:txt-username"
+Password_Input="id:txt-password"
+Login_Btn="id:btn-login"
