@@ -58,7 +58,7 @@ RobotFrameworkCucumber-CuraHealthCare/
 │    ├── Booking.robot
 │    ├── Login_Test.robot
 │── .gitignore
-│── Results
+│── Results/
 │── README.md
 ```
 # Example Test Case
