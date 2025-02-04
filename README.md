@@ -34,7 +34,7 @@ robot --version
 # Running Tests
 - **Execute the test suite using the following command:** 
 ```sh
-robot -d Results tests/
+robot -d Results Test_Cases/
 ```
 - **The test results and logs will be available in the Results folder**
 - **You can also execute specific test cases using:**
