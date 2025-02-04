@@ -39,7 +39,7 @@ robot -d Results Test_Cases/
 - **The test results and logs will be available in the Results folder**
 - **You can also execute specific test cases using:**
 ``` sh
-robot -t "Test Case Name" tests/
+robot -t "Test Case Name" Test_Cases/
 ```
 # Project Structure
 ``` sh
