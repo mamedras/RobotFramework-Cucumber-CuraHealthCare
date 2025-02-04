@@ -73,7 +73,7 @@ RobotFrameworkCucumber-CuraHealthCare/
 # Reporting
 - **To generate an HTML test report, use:**
 ``` sh
-robot --outputdir Results tests/
+robot --outputdir Results Test_Cases/
 ```
 - **Then, open Results/log.html in a browser.**
 
